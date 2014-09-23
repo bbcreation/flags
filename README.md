@@ -4,4 +4,4 @@ For flags used icons from the iconset [FamFamFam Flag Icons](http://www.famfamfa
 
 ![FamFamFam Flag Icons](http://www.famfamfam.com/lab/icons/flags/flags_preview_large.png)
 
-[The MIT license][LICENSE]
+[The MIT license](LICENSE)
