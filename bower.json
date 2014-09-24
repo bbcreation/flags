@@ -1,0 +1,25 @@
+{
+  "name": "flag-icons",
+  "version": "1.0.0",
+  "description": "Flag icons in sprite",
+  "main": "flags.css",
+  "keywords": [
+    "flag",
+    "icon",
+    "sprite",
+    "css",
+    "stylus"
+  ],
+  "authors": [
+    "Zoxon (https://github.com/Zoxon)"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/Zoxon/flag-icons",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
