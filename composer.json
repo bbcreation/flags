@@ -1,5 +1,9 @@
 {
     "name": "bbcreation/flags",
-    "description": "Flags",
-    "require": {}
+    "type": "component",
+    "version": "1.0",
+    "description": "Fork Flags",
+    "require": {},
+    "minimum-stability": "stable",
+    "license": "MIT"
 }
